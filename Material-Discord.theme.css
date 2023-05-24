@@ -11,8 +11,13 @@
  */
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
+@import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
+@import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
+@import url('https://discord-extensions.github.io/essence/src/vendors/iconsax-discord.css');
 
 :root {
+
+
 	--accent-hue: 224;
 	--accent-saturation: 71%;
 	--accent-lightness: 61%;
@@ -21,7 +26,7 @@
 
 	--avatar-radius: 50%; /*	-	*/
 
-	--message-radius: 19px;
+	--message-radius: 10px;
 	--message-padding-top: 8px;
 	--message-padding-side: 12px; /*	-	*/
 
