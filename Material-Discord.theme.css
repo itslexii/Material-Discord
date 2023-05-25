@@ -13,27 +13,27 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
 @import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
 @import url('https://discord-extensions.github.io/essence/src/vendors/iconsax-discord.css');
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/icons/source.css);
 
-:root {
 
-
+:root {	
 	--accent-hue: 224;
 	--accent-saturation: 71%;
 	--accent-lightness: 61%;
 	--accent-text-color: #fff;
 	--accent-button-action: #fff; /*	-	*/
 
-	--avatar-radius: 50%; /*	-	*/
+	--avatar-radius: 27%; /*	-	*/
 
-	--message-radius: 10px;
+	--message-radius: 13px;
 	--message-padding-top: 8px;
 	--message-padding-side: 12px; /*	-	*/
 
-	--media-radius: 19px; /*	-	*/
+	--media-radius: 13px; /*	-	*/
 
 	--card-radius: 8px;
 	--card-radius-big: 18px; /*	-	*/
 
 	--popout-radius: 8px;
-	--popout-radius-big: 18px;
+	--popout-radius-big: 13px;
 }
